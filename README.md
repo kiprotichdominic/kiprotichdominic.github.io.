@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Kiprotich Dominic</h2>
+<img alt="Night Coding" src="./assets/images/giphy.gif" width='40' align="left"/><h2>Hey there! I'm Kiprotich Dominic</h2>
 
 
 <h3> &nbsp;🧍 About Me </h3>
